@@ -7,5 +7,5 @@ Approach:
 3. Optimizer : Adam, to deal with sparse gradients. Loss function:  mean squared error 
 
 <br />
-
-<!-- ![alt text](https://github.com/ku2045/NYU-RM-/blob/main/yolo_op1.png?raw=true) -->
+Output :
+![alt text](https://github.com/ukarthik27/Facial-Keypoint-Detector/blob/main/op.png?raw=true)
