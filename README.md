@@ -1,5 +1,5 @@
 # Facial-Keypoint Detector using CNN
-Goal : Identify facial keypoints using CNNs which can part of a CV pipeline in emotion analysis, AR applications using CNN
+Goal : Identify facial keypoints using CNNs which can part of a CV pipeline in emotion analysis, AR applications 
 
 Approach: 
 1. Constructed a Deep CNN with Batch Norm in the inital Conv layers. Used ReLu activation function with dropout to keep a check overfitting.
